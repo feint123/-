@@ -1,31 +1,29 @@
-<mxfile host="app.diagrams.net" modified="2020-05-02T11:26:34.280Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1 Safari/605.1.15" etag="a2odHa5jGI29cSZU1iEj" version="13.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-02T11:34:01.727Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1 Safari/605.1.15" etag="fYo26HniR9LHjeDj256l" version="13.0.5" type="github">
   <diagram id="HDwnPnsOy4uLpxsVf0ml" name="Page-1">
-    <mxGraphModel dx="693" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="312" dy="195" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="IMrU2__sPg4LdoYcU0Ze-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IMrU2__sPg4LdoYcU0Ze-13" target="IMrU2__sPg4LdoYcU0Ze-14">
+        <mxCell id="IMrU2__sPg4LdoYcU0Ze-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IMrU2__sPg4LdoYcU0Ze-29" target="IMrU2__sPg4LdoYcU0Ze-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IMrU2__sPg4LdoYcU0Ze-13" value="进入B站" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="300" width="120" height="60" as="geometry" />
+        <mxCell id="IMrU2__sPg4LdoYcU0Ze-29" value="打开B站" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="420" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IMrU2__sPg4LdoYcU0Ze-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IMrU2__sPg4LdoYcU0Ze-14" target="IMrU2__sPg4LdoYcU0Ze-18">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="380" y="510" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="IMrU2__sPg4LdoYcU0Ze-14" value="打开FeintKotlin的视频" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="420" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="IMrU2__sPg4LdoYcU0Ze-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IMrU2__sPg4LdoYcU0Ze-18" target="IMrU2__sPg4LdoYcU0Ze-19">
+        <mxCell id="IMrU2__sPg4LdoYcU0Ze-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IMrU2__sPg4LdoYcU0Ze-30" target="IMrU2__sPg4LdoYcU0Ze-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IMrU2__sPg4LdoYcU0Ze-18" value="长按点赞按钮" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="525" width="120" height="60" as="geometry" />
+        <mxCell id="IMrU2__sPg4LdoYcU0Ze-30" value="搜索feintKotlin的视频" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="500" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IMrU2__sPg4LdoYcU0Ze-19" value="一键三连" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="640" width="120" height="60" as="geometry" />
+        <mxCell id="IMrU2__sPg4LdoYcU0Ze-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IMrU2__sPg4LdoYcU0Ze-31" target="IMrU2__sPg4LdoYcU0Ze-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IMrU2__sPg4LdoYcU0Ze-31" value="长按点赞按钮" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="620" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IMrU2__sPg4LdoYcU0Ze-33" value="一键三连" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="740" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
